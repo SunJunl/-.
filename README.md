@@ -9,12 +9,14 @@ NHNC adopts ANN as the annotation format, which contains five important tags: se
 Data sources  
 | Corpus source | details |	Number of words	| Number of sentences |
 | ------------- | ------- | --------------- | ------------------- |
-| Classical geological literature | Memoir on Geology of Nanjing-Zhenjiang Mountain |	8620	| 167 |
-| Classical geological literature | Regional Geology of Anhui Province |	14931	| 332 |
-| Classical geological literature | Regional Geology of China, Fujian province, Liaoning province,etc. |	60377	| 1391 |
-| Classical geological literature | Petroleum Geology of China | 25167	| 457 |   
-| Classical geological literature | Monograph on The Regional Geology of Jiansu Province And Shanghai City |	11979	| 264 |  
-| Classical geological literature | Stratigraphical Lexicon of China |	22075	| 376 |  
+| Natural hazards papers | Coastal erosion |	5887	| 41 |
+| Natural hazards papers | Earthquake |	23411	| 241 |
+| Natural hazards papers | Flood |	9956	| 56 |
+| Natural hazards papers | Landslide | 19517	| 105 |   
+| Natural hazards papers | Meteorological extreme events |	34,926	| 188 |  
+| Natural hazards papers | Soil erosion and desertification |	6408	| 47 |  
+| Natural hazards papers | Tsunami |	7695	| 69 |  
+| Natural hazards papers | Wildfires |	8542	| 59 |  
   
 My sincere thanks to my mentor and other members. If you have any questions, please email us.   
 e-mail：Junlin Sun (20720671@stu.ahau.edu.cn)
