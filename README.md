@@ -1,6 +1,6 @@
-# Natural hazards-NER-corpus
+# Agricultural-Geology-NER-corpus
 
-The Natural hazards-NER-corpus(NHNC) includes classical natural hazards literature.  
+The Agricultural-Geology-NER-corpus(NHNC) includes classical agricultural-Geology literature.  
 This corpus refers to the relevant classical literatures in the natural hazards and the annotation characteristics of NHNER. Natural hazards records of various regions in China are taken as the original corpus, and then the original corpus is processed with text preprocessing, entity annotation and consistency evaluation. Finally, the annotation results are saved into the corpus. NHNC totals 116,342 words.  
   
 We define the natural hazards entity category into three categories: geographical location, natural hazards and research method.
